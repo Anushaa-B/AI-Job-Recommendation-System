@@ -20,7 +20,7 @@
   ## 📌 How to Run
   1. Clone this repository:
     ```sh
-    git clone https://github.com/YomnaWaleed/job-recommendation-system-ai.git
+    git clone https://github.com/Anushaa-B/AI-Job-Recommendation-System
     cd job-recommendation-system-ai
 
 # 2) Install the dependencies:
