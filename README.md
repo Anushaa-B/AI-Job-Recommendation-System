@@ -2,6 +2,11 @@
 
   This is an AI-driven job recommendation system that analyzes resumes and suggests the most relevant job positions based on skills and experience. The system utilizes **Natural Language Processing (NLP)** and **Semantic Search** to find the best job matches.
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge)](https://ai-job-recommendation-system-v87hw5rfvr9usgulas5kyz.streamlit.app/) 
+
+
   ## 🚀 Features
   - Upload a **PDF resume** for job recommendations
   - **AI-based analysis** using `SentenceTransformer` for job matching
