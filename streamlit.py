@@ -6,7 +6,7 @@ from model import JobRecommendationSystem
 # Load the job recommendation model
 recommender = JobRecommendationSystem("JobsFE.csv")
 
-st.title("AI-Powered Job Recommendation System")
+st.title("AI-Job Recommendation System")
 
 st.write(
     "Upload your resume as a PDF file, and get 20 job recommendations tailored to you!"
